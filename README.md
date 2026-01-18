@@ -1,3 +1,3 @@
 # qr_alarm
 
-A new Flutter project.
+A QR-code based alarm clock app for Android (and perhaps iOS)

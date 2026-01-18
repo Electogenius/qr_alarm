@@ -1,5 +1,5 @@
 name: qr_alarm
-description: "A new Flutter project."
+description: "A QR-code based alarm clock app."
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  alarm: ^5.1.5
+  mobile_scanner: ^7.1.4
 
 dev_dependencies:
   flutter_test:
